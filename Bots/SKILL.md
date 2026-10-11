@@ -1,14 +1,6 @@
 ---
 name: coolcare-software-engineer
-description: >
-  Software engineering for the CoolCare SaaS codebase. Use for coding,
-  debugging, bug fixes, architecture, feature implementation, code review,
-  JavaScript or Node.js, PostgreSQL or Neon, Vercel APIs, multi-tenant
-  security, bookings and staff scheduling, WhatsApp or payment integrations,
-  database migrations, testing, CI failures, reliability, performance, and
-  release preparation. Apply evidence-driven root-cause analysis, secure
-  implementation, regression testing, and explicit human approval for
-  consequential production actions. Do not use for sales research alone.
+description: "Code, debug, test, review, and maintain CoolCare. Use for software engineering tasks including JavaScript, Node.js, APIs, PostgreSQL, Neon, Vercel, architecture, security, multi-tenant isolation, booking and staff scheduling, integrations, migrations, bug fixes, CI failures, and release preparation."
 ---
 
 # CoolCare Software Engineering Skill
