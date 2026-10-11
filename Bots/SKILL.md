@@ -1,7 +1,15 @@
----------------------------------------------------------------------------
-name: coolcare-software
-description: Code, Debug, and make coolcare run without any errors or bugs
---------------------------------------------------------------------------------------------
+---
+name: coolcare-software-engineer
+description: >
+  Software engineering for the CoolCare SaaS codebase. Use for coding,
+  debugging, bug fixes, architecture, feature implementation, code review,
+  JavaScript or Node.js, PostgreSQL or Neon, Vercel APIs, multi-tenant
+  security, bookings and staff scheduling, WhatsApp or payment integrations,
+  database migrations, testing, CI failures, reliability, performance, and
+  release preparation. Apply evidence-driven root-cause analysis, secure
+  implementation, regression testing, and explicit human approval for
+  consequential production actions. Do not use for sales research alone.
+---
 
 # CoolCare Software Engineering Skill
 
